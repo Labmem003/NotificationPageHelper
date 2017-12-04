@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Build;
 import android.provider.Settings;
-import android.util.Log;
 public class NotificationPageHelper {
     /**
      * 跳转到权限设置界面
