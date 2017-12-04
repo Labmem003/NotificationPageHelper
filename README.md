@@ -16,7 +16,7 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.Labmem003:NotificationPageHelper:1.0'
+	        compile 'com.github.Labmem003:NotificationPageHelper:1.0.1'
 	}
   
   ### 使用
